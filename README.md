@@ -13,6 +13,8 @@ This project is a Java-based application for managing a computer accessories sto
 
 ## Project Structure
 
+### File Structure
+
 - `Admin.java`: Represents an admin user.
 - `Address.java`: Represents a physical address.
 - `CardPayment.java`: Handles card payment processing.
@@ -34,6 +36,10 @@ This project is a Java-based application for managing a computer accessories sto
 - `UserManager.java`: Manages user accounts.
 - `UserRole.java`: Enum for user roles (customer, admin).
 - `ValidPayment.java`: Validates payment information.
+
+### Class Diagram
+
+[ClassDiagram.jpg]
 
 ## Getting Started
 
