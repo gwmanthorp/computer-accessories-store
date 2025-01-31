@@ -39,7 +39,7 @@ This project is a Java-based application for managing a computer accessories sto
 
 ### Class Diagram
 
-[ClassDiagram.jpg]
+![Class Diagram](ClassDiagram.jpg)
 
 ## Getting Started
 
