@@ -1,0 +1,22 @@
+# Compiled class files
+*.class
+
+# Eclipse metadata
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Eclipse Core
+.project
+.classpath
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
